@@ -1,0 +1,41 @@
+{
+  "name": "managing-csv-data-with-maps-tutorial",
+  "version": "1.0.0",
+  "description": ":pushpin: A single-page app for managing spreadsheet data using the Google Maps API. Created for my YouTube tutorial.",
+  "main": "src/js/index.js",
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack --watch",
+    "dev": "webpack-dev-server --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryceStPierre/managing-csv-data-with-maps-tutorial.git"
+  },
+  "keywords": [],
+  "author": "Bryce St. Pierre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BryceStPierre/managing-csv-data-with-maps-tutorial/issues"
+  },
+  "homepage": "https://github.com/BryceStPierre/managing-csv-data-with-maps-tutorial#readme",
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/preset-env": "^7.8.4",
+    "babel-loader": "^8.0.6",
+    "css-loader": "^3.4.2",
+    "dotenv": "^8.2.0",
+    "html-webpack-plugin": "^3.2.0",
+    "style-loader": "^1.1.3",
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  },
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "jspdf": "^1.5.3",
+    "jspdf-autotable": "^3.2.13",
+    "popper.js": "^1.16.1"
+  }
+}
