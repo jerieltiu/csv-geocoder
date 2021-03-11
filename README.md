@@ -1,6 +1,6 @@
 # Import CSV Data for Google Maps API (Tutorial)
 
-A single-page app for importing CSV data into the browser for display with the Google Maps API. The final code from the YouTube tutorial.
+A single-page app for importing CSV data into the browser for display with the Google Maps API. The initial code credits from the YouTube tutorial modified.
 
 ## What You Can Learn
 
